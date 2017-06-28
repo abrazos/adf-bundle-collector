@@ -3,7 +3,7 @@
  * @since 2017-3-27
  */
 'use strict';
-var BundleCollector = require("./adf/server/bundleCollector.js");
+var BundleCollector = require("./bundleCollector.js");
 var collector = new BundleCollector();
 
 class ADF{
